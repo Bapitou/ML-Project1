@@ -5,7 +5,7 @@
 The repository contains the code for Machine Learning course 2020 (CS-433) project 1 (Higgs Boson challenge: https://www.aicrowd.com/challenges/epfl-machine-learning-higgs/leaderboards) at EPFL. More information about this challenge can be found in the folder `documents`.
 
 ### Team
-The project is accomplished by team `INteam` with members:
+The project is accomplished by team `Ma_BG` with members:
 - Marie-Alix Gilltboeuf: [@GILLYBOEUF]
 - Baptiste Hernette: [@Bapitou]
 - Gaspard Villa: [@gaspardvilla] 
