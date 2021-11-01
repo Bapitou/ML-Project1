@@ -2,7 +2,7 @@
 
 ## General Information
 
-The repository contains the code for Machine Learning course 2021 (CS-433) project 1 (Higgs Boson challenge: https://www.aicrowd.com/challenges/epfl-machine-learning-higgs/leaderboards) at EPFL. More information about this challenge can be found in the folder `documents`.
+The repository contains the code for Machine Learning course 2021 (CS-433) project 1 (Higgs Boson challenge: https://www.aicrowd.com/challenges/epfl-machine-learning-higgs/leaderboards) at EPFL. More information about this challenge can be found in the folder `Documents`.
 
 ### Team
 The project is accomplished by team `Ma_BG` with members:
