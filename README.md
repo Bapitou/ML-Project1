@@ -1,4 +1,4 @@
-# Higgs Boson Challenge 2020 EPFL
+# Higgs Boson Challenge 2021 EPFL
 
 ## General Information
 
